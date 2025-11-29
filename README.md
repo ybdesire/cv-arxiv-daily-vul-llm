@@ -1,4 +1,4 @@
-## Updated on 2025.11.27
+## Updated on 2025.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -168,7 +168,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
