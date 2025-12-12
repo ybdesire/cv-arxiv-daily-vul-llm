@@ -10,6 +10,8 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#llmvuldetect>LLMVulDetect</a></li>
+    <li><a href=#vuldetect>VulDetect</a></li>
   </ol>
 </details>
 
@@ -8703,6 +8705,31 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+
+## LLMVulDetect
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
+
+<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+
+## VulDetect
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
+|**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
+|**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
+|**2025-12-09**|**Llama-based source code vulnerability detection: Prompt engineering vs Fine tuning**|Dyna Soumhane Ouchebara et.al.|[2512.09006](http://arxiv.org/abs/2512.09006)|null|
+|**2025-12-08**|**VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection**|Yuzhou Nie et.al.|[2512.07533](http://arxiv.org/abs/2512.07533)|null|
+|**2025-12-06**|**UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems**|Xianzong Wu et.al.|[2512.06406](http://arxiv.org/abs/2512.06406)|null|
+|**2025-11-28**|**Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection**|Fouad Trad et.al.|[2512.04106](http://arxiv.org/abs/2512.04106)|null|
+|**2025-11-29**|**Large Language Model based Smart Contract Auditing with LLMBugScanner**|Yining Yuan et.al.|[2512.02069](http://arxiv.org/abs/2512.02069)|null|
+|**2025-12-01**|**Large Language Models Cannot Reliably Detect Vulnerabilities in JavaScript: The First Systematic Benchmark and Evaluation**|Qingyuan Fei et.al.|[2512.01255](http://arxiv.org/abs/2512.01255)|null|
+|**2025-11-27**|**UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond**|Vadim Safronov et.al.|[2511.22359](http://arxiv.org/abs/2511.22359)|null|
 
 <p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
 
