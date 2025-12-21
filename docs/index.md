@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.16
+## Updated on 2025.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8696,6 +8696,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
+|**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
+|**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
+|**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
 |**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
 |**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
 |**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
