@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.22
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8690,12 +8690,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
+|**2025-12-21**|**Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System**|Zhang Wei et.al.|[2512.20677](http://arxiv.org/abs/2512.20677)|null|
+|**2025-12-20**|**SoK: Understanding (New) Security Issues Across AI4Code Use Cases**|Qilong Wu et.al.|[2512.18456](http://arxiv.org/abs/2512.18456)|null|
+|**2025-12-23**|**Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective**|M. Mehdi Kholoosi et.al.|[2512.18261](http://arxiv.org/abs/2512.18261)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
 |**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
